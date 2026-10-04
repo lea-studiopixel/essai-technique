@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  color: #3b2a20;
+  background: #fbf6ef;
+}
+
+header {
+  padding: 2rem;
+  text-align: center;
+  color: #fbf6ef;
+  background: #6b3f2a;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem 2rem 2rem;
+}
+
+h2 {
+  color: #6b3f2a;
+}
